@@ -1,4 +1,5 @@
+torch
 transformers
-nltk==3.8.1
-wikipedia
-scikit-learn==1.3.0
+sentence-transformers
+faiss-cpu
+numpy

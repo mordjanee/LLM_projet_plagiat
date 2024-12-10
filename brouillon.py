@@ -1,4 +1,3 @@
-
 import os
 from transformers import BertTokenizer, BertModel
 import torch

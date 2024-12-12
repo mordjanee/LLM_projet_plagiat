@@ -6,6 +6,7 @@ import pickle
 import numpy as np
 from sentence_transformers import util
 import chardet  # To detect file encoding if it's not UTF-8
+import fitz
 
 # Function to detect file encoding
 def detect_encoding(file_path):

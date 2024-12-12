@@ -5,3 +5,5 @@ faiss-cpu==1.9.0.post1
 numpy==1.26.4
 pandas==2.2.3
 chardet==5.2.0
+PyMuPDF==1.23.26
+frontend==0.0.3

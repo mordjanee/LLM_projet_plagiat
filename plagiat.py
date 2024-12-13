@@ -30,27 +30,47 @@ class Plagiat:
         embeddings = outputs.last_hidden_state[0, 1:-1, :].mean(dim=0).numpy()
         return embeddings
 
-    def check_plagiarism_detailed(self,text, tokenizer, model, index, corpus, corpus_embeddings, threshold=0.8):
+    def check_plagiarism_detailed(self, text, tokenizer, model, index, corpus, corpus_embeddings, threshold=0.5, global_threshold=0.5):
         print("=========check_plagiarism_detailed START=========")
         plagiarized_parts = []
-        sentences = text.split(". ")  # Split the text into sentences for comparison
+        sentences = text.split(". ")  # Diviser le texte en phrases pour comparaison
+        total_tokens = 0
+        total_similar_tokens = 0
+
         for sentence in sentences:
+            print('hehe')
             sentence_embedding = self.embed_bert(sentence, tokenizer, model)
             D, I = index.search(np.array([sentence_embedding]), k=5)
+            similar_tokens = 0
             for i in range(len(I[0])):
                 similarity = util.cos_sim(sentence_embedding, corpus_embeddings[I[0][i]])
                 if similarity >= threshold:
+                    print('hello')
+                    similar_tokens += 1
                     plagiarized_parts.append({
                         'sentence': sentence,
                         'matched_text': corpus[I[0][i]],
                         'similarity': similarity.item()
                     })
-        return plagiarized_parts
+            
+
+            # Compter les tokens similaires pour le calcul global
+            total_tokens += 1
+            if similar_tokens > 0:  # Si la phrase a des similarités
+                total_similar_tokens += 1
+        print('total_tokens',total_similar_tokens/total_tokens)
+        # Calcul de la similarité globale
+        plagiarism_score = total_similar_tokens / total_tokens if total_tokens > 0 else 0
+
+
+        return plagiarized_parts, plagiarism_score
+
 
     def save_output_data(self,corpus_embeddings, corpus, dossier_copie):
         print("=========save_output_data START=========")
         index = faiss.IndexFlatL2(corpus_embeddings.shape[1])
         index.add(corpus_embeddings)
+        score = 0
 
         # Create a file to save results
         with open("resultats_plagiat.txt", "w", encoding='utf-8') as result_file:
@@ -61,53 +81,44 @@ class Plagiat:
                         encoding = self.detect_encoding(file_stream)
                     with open(file_path, 'r', encoding=encoding) as f:
                         texte_copie = f.read()
-                        resultats = self.check_plagiarism_detailed(
+                        resultats, score = self.check_plagiarism_detailed(
                             texte_copie, tokenizer, model, index, corpus, corpus_embeddings
                         )
 
                         if resultats:
-                            result_file.write(f"Plagiat détecté dans le fichier {filename}:\n")
-                            print(f"Plagiat détecté dans le fichier {filename}:")
-                            for resultat in resultats:
-                                result_file.write(f"  Partie plagiée: {resultat['sentence']}\n")
-                                result_file.write(f"  Correspondance trouvée: {resultat['matched_text'][:100]}...\n")
-                                result_file.write(f"  Similarité: {resultat['similarity']:.2f}\n\n")
-                                print(f"  Partie plagiée: {resultat['sentence']}")
-                                print(f"  Correspondance trouvée: {resultat['matched_text'][:100]}...")
-                                print(f"  Similarité: {resultat['similarity']:.2f}")
+                            self.write_to_file(result_file, resultats, filename)
                         else:
                             result_file.write(f"Aucun plagiat détecté dans le fichier {filename}.\n")
-                            print(f"Aucun plagiat détecté dans le fichier {filename}")
+                            
                 elif filename.endswith(".pdf"):
                     file_path = os.path.join(dossier_copie, filename)
                     texte_copie = self.extract_text_from_pdf(file_path)
-                    resultats = self.check_plagiarism_detailed(
+                    resultats, score = self.check_plagiarism_detailed(
                         texte_copie, tokenizer, model, index, corpus, corpus_embeddings
                     )
-
-                    part_plagiat = ''
-                    match_text = ''
-                    i = 0
-                    similarity = 0
+                    
                     if resultats:
-                        result_file.write(f"Plagiat détecté dans le fichier {filename}:\n")
-                        for resultat in resultats:
-                            part_plagiat += f"  Partie plagiée: {resultat['sentence']}\n"
-                            match_text += f"  Correspondance trouvée: {resultat['matched_text'][:100]}...\n"
-                            similarity += resultat['similarity']
-                            i += 1
-
-                        
-                            # print(f"  Partie plagiée: {resultat['sentence']}")
-                            # print(f"  Correspondance trouvée: {resultat['matched_text'][:100]}...")
-                            # print(f"  Similarité: {resultat['similarity']:.2f}")
-                        result_file.write(f"  Partie plagiée: {resultat['sentence']}\n")
-                        result_file.write(f"  Correspondance trouvée: {resultat['matched_text'][:100]}...\n")
-                        result_file.write(f"  Similarité: {similarity / i}\n\n")
+                        self.write_to_file(result_file, resultats, filename)
                     else:
                         result_file.write(f"Aucun plagiat détecté dans le fichier {filename}.\n")
-                        # print(f"Aucun plagiat détecté dans le fichier {filename}")
-        print("finish")
+        if score:
+            return score
+        else:
+            return 0
+
+    
+    def write_to_file(self,result_file, resultats, filename):
+        part_plagiat = ''
+        match_text = ''
+        result_file.write(f"Plagiat détecté dans le fichier {filename}:\n")
+        for resultat in resultats:
+            part_plagiat += f"  Partie plagiée: {resultat['sentence']}\n"
+            match_text += f"  Correspondance trouvée: {resultat['matched_text'][:100]}...\n"
+            result_file.write(f"  Partie plagiée: {resultat['sentence']}\n")
+            result_file.write(f"  Similarité: {resultat['similarity']}\n\n")
+            result_file.write(f"  Correspondance trouvée: {resultat['matched_text'][:100]}...\n")
+            
+        
 
     def extract_text_from_pdf_byte(self,file_byte):
         print("=========extract_text_from_pdf START=========")
@@ -135,7 +146,7 @@ class Plagiat:
         if file_type == 'txt':
             dossier_copie = "TestData1/Copy/"
             
-            file_byte = BytesIO(file.body)  # Assurez-vous que `file` est bien un objet avec `.body` 
+            file_byte = BytesIO(file.body)  # Assurez-vous que file est bien un objet avec .body 
             encoding = self.detect_encoding(file_byte)
             file_byte.seek(0)
             raw_data = file_byte.read()
@@ -143,7 +154,7 @@ class Plagiat:
             corpus.append(texte_original)
             corpus_embeddings.append(self.embed_bert(texte_original, tokenizer, model))
 
-        elif type == 'pdf':
+        elif file_type == 'pdf':
             dossier_copie = "testPDF"
             texte_original = self.extract_text_from_pdf_byte(file_byte)
             corpus.append(texte_original)
@@ -151,5 +162,11 @@ class Plagiat:
 
         corpus_embeddings = np.array(corpus_embeddings)
 
-        self.save_output_data(corpus_embeddings, corpus, dossier_copie)
+        result =  self.save_output_data(corpus_embeddings, corpus, dossier_copie)
 
+        if result > 0.8:
+            return {"result": "Plagiat detecté", "Similarité": f"{result*100} %"}
+        elif result > 0.5 and result < 0.8:
+            return {"result": "Plagiat probable", "Similarité": f"{result*100} %"}
+        else:
+            return {"result": "Pas de plagiat", "Similarité": f"{result*100} %"}

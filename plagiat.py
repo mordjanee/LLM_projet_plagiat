@@ -38,14 +38,12 @@ class Plagiat:
         total_similar_tokens = 0
 
         for sentence in sentences:
-            print('hehe')
             sentence_embedding = self.embed_bert(sentence, tokenizer, model)
             D, I = index.search(np.array([sentence_embedding]), k=5)
             similar_tokens = 0
             for i in range(len(I[0])):
                 similarity = util.cos_sim(sentence_embedding, corpus_embeddings[I[0][i]])
                 if similarity >= threshold:
-                    print('hello')
                     similar_tokens += 1
                     plagiarized_parts.append({
                         'sentence': sentence,
@@ -58,7 +56,6 @@ class Plagiat:
             total_tokens += 1
             if similar_tokens > 0:  # Si la phrase a des similarités
                 total_similar_tokens += 1
-        print('total_tokens',total_similar_tokens/total_tokens)
         # Calcul de la similarité globale
         plagiarism_score = total_similar_tokens / total_tokens if total_tokens > 0 else 0
 

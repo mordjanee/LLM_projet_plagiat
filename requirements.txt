@@ -7,3 +7,4 @@ pandas==2.2.3
 chardet==5.2.0
 PyMuPDF==1.23.26
 frontend==0.0.3
+sanic==24.6.0

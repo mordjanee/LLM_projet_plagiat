@@ -1,1 +1,4979 @@
-Aucun plagiat détecté dans le fichier report.pdf.
+Plagiat détecté dans le fichier Tutorial Cassandra Install.pdf:
+  Partie plagiée: Java JDK 8
+  Similarité: 0.5280977487564087
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Java JDK 8
+  Similarité: 0.5280977487564087
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Java JDK 8
+  Similarité: 0.5280977487564087
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Java JDK 8
+  Similarité: 0.5280977487564087
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Java JDK 8
+  Similarité: 0.5280977487564087
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Download it here: 
+https://www.oracle.com/java/technologies/downloads/archive/  
+And set environnement variable JAVA_HOME to the root of your JDK folder 
+Follow this: https://www.google.com/search?q=install+jdk+and+set+java_home  
+2
+  Similarité: 0.7075004577636719
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Download it here: 
+https://www.oracle.com/java/technologies/downloads/archive/  
+And set environnement variable JAVA_HOME to the root of your JDK folder 
+Follow this: https://www.google.com/search?q=install+jdk+and+set+java_home  
+2
+  Similarité: 0.7075004577636719
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Download it here: 
+https://www.oracle.com/java/technologies/downloads/archive/  
+And set environnement variable JAVA_HOME to the root of your JDK folder 
+Follow this: https://www.google.com/search?q=install+jdk+and+set+java_home  
+2
+  Similarité: 0.7075004577636719
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Download it here: 
+https://www.oracle.com/java/technologies/downloads/archive/  
+And set environnement variable JAVA_HOME to the root of your JDK folder 
+Follow this: https://www.google.com/search?q=install+jdk+and+set+java_home  
+2
+  Similarité: 0.7075004577636719
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Download it here: 
+https://www.oracle.com/java/technologies/downloads/archive/  
+And set environnement variable JAVA_HOME to the root of your JDK folder 
+Follow this: https://www.google.com/search?q=install+jdk+and+set+java_home  
+2
+  Similarité: 0.7075004577636719
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: You need Python 2.7 (Note: Python 3.6 doesn’t work anymore with Cassandra 3.11)  
+If you already have python, verify the version by running on terminal ‘python --version’ 
+else download and install Python 2.7: https://www.python.org/downloads/ 
+and set new python folder to your PATH variable
+  Similarité: 0.6930716633796692
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: You need Python 2.7 (Note: Python 3.6 doesn’t work anymore with Cassandra 3.11)  
+If you already have python, verify the version by running on terminal ‘python --version’ 
+else download and install Python 2.7: https://www.python.org/downloads/ 
+and set new python folder to your PATH variable
+  Similarité: 0.6930716633796692
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: You need Python 2.7 (Note: Python 3.6 doesn’t work anymore with Cassandra 3.11)  
+If you already have python, verify the version by running on terminal ‘python --version’ 
+else download and install Python 2.7: https://www.python.org/downloads/ 
+and set new python folder to your PATH variable
+  Similarité: 0.6930716633796692
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: You need Python 2.7 (Note: Python 3.6 doesn’t work anymore with Cassandra 3.11)  
+If you already have python, verify the version by running on terminal ‘python --version’ 
+else download and install Python 2.7: https://www.python.org/downloads/ 
+and set new python folder to your PATH variable
+  Similarité: 0.6930716633796692
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: You need Python 2.7 (Note: Python 3.6 doesn’t work anymore with Cassandra 3.11)  
+If you already have python, verify the version by running on terminal ‘python --version’ 
+else download and install Python 2.7: https://www.python.org/downloads/ 
+and set new python folder to your PATH variable
+  Similarité: 0.6930716633796692
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  
+https://www.google.com/search?q=change+path+variable+for+python  
+ 
+Step 2: Verify Prerequisites 
+1
+  Similarité: 0.6528379321098328
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  
+https://www.google.com/search?q=change+path+variable+for+python  
+ 
+Step 2: Verify Prerequisites 
+1
+  Similarité: 0.6528379321098328
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  
+https://www.google.com/search?q=change+path+variable+for+python  
+ 
+Step 2: Verify Prerequisites 
+1
+  Similarité: 0.6528379321098328
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  
+https://www.google.com/search?q=change+path+variable+for+python  
+ 
+Step 2: Verify Prerequisites 
+1
+  Similarité: 0.6528379321098328
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  
+https://www.google.com/search?q=change+path+variable+for+python  
+ 
+Step 2: Verify Prerequisites 
+1
+  Similarité: 0.6528379321098328
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: On your terminal, run ‘python --version’ and verify it’s Python 2.7
+  Similarité: 0.6176480054855347
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: On your terminal, run ‘python --version’ and verify it’s Python 2.7
+  Similarité: 0.6176480054855347
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: On your terminal, run ‘python --version’ and verify it’s Python 2.7
+  Similarité: 0.6176480054855347
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: On your terminal, run ‘python --version’ and verify it’s Python 2.7
+  Similarité: 0.6176480054855347
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: On your terminal, run ‘python --version’ and verify it’s Python 2.7
+  Similarité: 0.6176480054855347
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Display JAVA_HOME variable value and verify it’s set to your jdk home: 
+○ On Windows: echo %JAVA_HOME% (should be something like C:/Program 
+Files/java/jdk1-8) 
+○ On Mac: echo $JAVA_HOME  (should be something like 
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home) 
+○ On Linux: echo $JAVA_HOME  (should be something like /usr/lib/jvm/java-8-
+openjdk-amd64/) 
+3
+  Similarité: 0.8038647770881653
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Display JAVA_HOME variable value and verify it’s set to your jdk home: 
+○ On Windows: echo %JAVA_HOME% (should be something like C:/Program 
+Files/java/jdk1-8) 
+○ On Mac: echo $JAVA_HOME  (should be something like 
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home) 
+○ On Linux: echo $JAVA_HOME  (should be something like /usr/lib/jvm/java-8-
+openjdk-amd64/) 
+3
+  Similarité: 0.8038647770881653
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Display JAVA_HOME variable value and verify it’s set to your jdk home: 
+○ On Windows: echo %JAVA_HOME% (should be something like C:/Program 
+Files/java/jdk1-8) 
+○ On Mac: echo $JAVA_HOME  (should be something like 
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home) 
+○ On Linux: echo $JAVA_HOME  (should be something like /usr/lib/jvm/java-8-
+openjdk-amd64/) 
+3
+  Similarité: 0.8038647770881653
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Display JAVA_HOME variable value and verify it’s set to your jdk home: 
+○ On Windows: echo %JAVA_HOME% (should be something like C:/Program 
+Files/java/jdk1-8) 
+○ On Mac: echo $JAVA_HOME  (should be something like 
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home) 
+○ On Linux: echo $JAVA_HOME  (should be something like /usr/lib/jvm/java-8-
+openjdk-amd64/) 
+3
+  Similarité: 0.8038647770881653
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Display JAVA_HOME variable value and verify it’s set to your jdk home: 
+○ On Windows: echo %JAVA_HOME% (should be something like C:/Program 
+Files/java/jdk1-8) 
+○ On Mac: echo $JAVA_HOME  (should be something like 
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home) 
+○ On Linux: echo $JAVA_HOME  (should be something like /usr/lib/jvm/java-8-
+openjdk-amd64/) 
+3
+  Similarité: 0.8038647770881653
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  Display java version
+  Similarité: 0.5626770853996277
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  Display java version
+  Similarité: 0.5626770853996277
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  Display java version
+  Similarité: 0.5626770853996277
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  Display java version
+  Similarité: 0.5626770853996277
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  Display java version
+  Similarité: 0.5626770853996277
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: On a terminal run ‘java -version’
+  Similarité: 0.6245919466018677
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: On a terminal run ‘java -version’
+  Similarité: 0.6245919466018677
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: On a terminal run ‘java -version’
+  Similarité: 0.6245919466018677
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: On a terminal run ‘java -version’
+  Similarité: 0.6245919466018677
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: On a terminal run ‘java -version’
+  Similarité: 0.6245919466018677
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Should be 1.8 
+ 
+Step 3: Download, Extract and run 
+1
+  Similarité: 0.6568421125411987
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Should be 1.8 
+ 
+Step 3: Download, Extract and run 
+1
+  Similarité: 0.6568421125411987
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Should be 1.8 
+ 
+Step 3: Download, Extract and run 
+1
+  Similarité: 0.6568421125411987
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Should be 1.8 
+ 
+Step 3: Download, Extract and run 
+1
+  Similarité: 0.6568421125411987
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Should be 1.8 
+ 
+Step 3: Download, Extract and run 
+1
+  Similarité: 0.6568421125411987
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+First download last version of Cassandra: http://cassandra.apache.org/download/ 
+2
+  Similarité: 0.5823572874069214
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+First download last version of Cassandra: http://cassandra.apache.org/download/ 
+2
+  Similarité: 0.5823572874069214
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+First download last version of Cassandra: http://cassandra.apache.org/download/ 
+2
+  Similarité: 0.5823572874069214
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+First download last version of Cassandra: http://cassandra.apache.org/download/ 
+2
+  Similarité: 0.5823572874069214
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+First download last version of Cassandra: http://cassandra.apache.org/download/ 
+2
+  Similarité: 0.5823572874069214
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Extract it in a folder
+  Similarité: 0.5022470355033875
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Extract it in a folder
+  Similarité: 0.5022470355033875
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Extract it in a folder
+  Similarité: 0.5022470355033875
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Extract it in a folder
+  Similarité: 0.5022470355033875
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Extract it in a folder
+  Similarité: 0.5022470355033875
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: We call the path to Cassandra folder:  /path/to/cassandra/ 
+3
+  Similarité: 0.6921310424804688
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: We call the path to Cassandra folder:  /path/to/cassandra/ 
+3
+  Similarité: 0.6921310424804688
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: We call the path to Cassandra folder:  /path/to/cassandra/ 
+3
+  Similarité: 0.6921310424804688
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: We call the path to Cassandra folder:  /path/to/cassandra/ 
+3
+  Similarité: 0.6921310424804688
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: We call the path to Cassandra folder:  /path/to/cassandra/ 
+3
+  Similarité: 0.6921310424804688
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+In a terminal, run: 
+ 
+cd /path/to/cassandra/ 
+cd bin 
+ 
+4
+  Similarité: 0.6950647830963135
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+In a terminal, run: 
+ 
+cd /path/to/cassandra/ 
+cd bin 
+ 
+4
+  Similarité: 0.6950647830963135
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+In a terminal, run: 
+ 
+cd /path/to/cassandra/ 
+cd bin 
+ 
+4
+  Similarité: 0.6950647830963135
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+In a terminal, run: 
+ 
+cd /path/to/cassandra/ 
+cd bin 
+ 
+4
+  Similarité: 0.6950647830963135
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+In a terminal, run: 
+ 
+cd /path/to/cassandra/ 
+cd bin 
+ 
+4
+  Similarité: 0.6950647830963135
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Run the server (in background): 
+./cassandra -f 
+ 
+2 
+Only for Windows :  
+§ 
+Use PowerShell to run ./cassandra –f 
+§ 
+If an error about Execution Policies appears indicating that it is missing rights, 
+execute the following command: 
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser 
+(see https://docs.microsoft.com/fr-
+fr/powershell/module/microsoft.powershell.core/about/about_execution_policies?view
+=powershell-6) 
+ 
+5
+  Similarité: 0.7662591934204102
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Run the server (in background): 
+./cassandra -f 
+ 
+2 
+Only for Windows :  
+§ 
+Use PowerShell to run ./cassandra –f 
+§ 
+If an error about Execution Policies appears indicating that it is missing rights, 
+execute the following command: 
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser 
+(see https://docs.microsoft.com/fr-
+fr/powershell/module/microsoft.powershell.core/about/about_execution_policies?view
+=powershell-6) 
+ 
+5
+  Similarité: 0.7662591934204102
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Run the server (in background): 
+./cassandra -f 
+ 
+2 
+Only for Windows :  
+§ 
+Use PowerShell to run ./cassandra –f 
+§ 
+If an error about Execution Policies appears indicating that it is missing rights, 
+execute the following command: 
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser 
+(see https://docs.microsoft.com/fr-
+fr/powershell/module/microsoft.powershell.core/about/about_execution_policies?view
+=powershell-6) 
+ 
+5
+  Similarité: 0.7662591934204102
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Run the server (in background): 
+./cassandra -f 
+ 
+2 
+Only for Windows :  
+§ 
+Use PowerShell to run ./cassandra –f 
+§ 
+If an error about Execution Policies appears indicating that it is missing rights, 
+execute the following command: 
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser 
+(see https://docs.microsoft.com/fr-
+fr/powershell/module/microsoft.powershell.core/about/about_execution_policies?view
+=powershell-6) 
+ 
+5
+  Similarité: 0.7662591934204102
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Run the server (in background): 
+./cassandra -f 
+ 
+2 
+Only for Windows :  
+§ 
+Use PowerShell to run ./cassandra –f 
+§ 
+If an error about Execution Policies appears indicating that it is missing rights, 
+execute the following command: 
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser 
+(see https://docs.microsoft.com/fr-
+fr/powershell/module/microsoft.powershell.core/about/about_execution_policies?view
+=powershell-6) 
+ 
+5
+  Similarité: 0.7662591934204102
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Run a shell client, Open a new terminal and run: 
+cd /path/to/cassandra/ 
+cd bin 
+./cqlsh localhost  
+ 
+Note: You can also have client with graphical interface, i.e.: https://www.quora.com/What-is-
+the-free-GUI-tool-for-Cassandra   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+LAUNCHING : 
+Server launching : $ /bin/cassandra –f 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Client launching : $ /bin/cqlsh 
+ 
+To familiarize yourself with the environment try this command  
+cqlsh> help  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+EXAMPLE 
+ 
+CREATE KEYSPACE 
+cqlsh> CREATE KEYSPACE demo 
+   ..
+  Similarité: 0.7812457084655762
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Run a shell client, Open a new terminal and run: 
+cd /path/to/cassandra/ 
+cd bin 
+./cqlsh localhost  
+ 
+Note: You can also have client with graphical interface, i.e.: https://www.quora.com/What-is-
+the-free-GUI-tool-for-Cassandra   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+LAUNCHING : 
+Server launching : $ /bin/cassandra –f 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Client launching : $ /bin/cqlsh 
+ 
+To familiarize yourself with the environment try this command  
+cqlsh> help  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+EXAMPLE 
+ 
+CREATE KEYSPACE 
+cqlsh> CREATE KEYSPACE demo 
+   ..
+  Similarité: 0.7812457084655762
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Run a shell client, Open a new terminal and run: 
+cd /path/to/cassandra/ 
+cd bin 
+./cqlsh localhost  
+ 
+Note: You can also have client with graphical interface, i.e.: https://www.quora.com/What-is-
+the-free-GUI-tool-for-Cassandra   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+LAUNCHING : 
+Server launching : $ /bin/cassandra –f 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Client launching : $ /bin/cqlsh 
+ 
+To familiarize yourself with the environment try this command  
+cqlsh> help  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+EXAMPLE 
+ 
+CREATE KEYSPACE 
+cqlsh> CREATE KEYSPACE demo 
+   ..
+  Similarité: 0.7812457084655762
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Run a shell client, Open a new terminal and run: 
+cd /path/to/cassandra/ 
+cd bin 
+./cqlsh localhost  
+ 
+Note: You can also have client with graphical interface, i.e.: https://www.quora.com/What-is-
+the-free-GUI-tool-for-Cassandra   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+LAUNCHING : 
+Server launching : $ /bin/cassandra –f 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Client launching : $ /bin/cqlsh 
+ 
+To familiarize yourself with the environment try this command  
+cqlsh> help  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+EXAMPLE 
+ 
+CREATE KEYSPACE 
+cqlsh> CREATE KEYSPACE demo 
+   ..
+  Similarité: 0.7812457084655762
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Run a shell client, Open a new terminal and run: 
+cd /path/to/cassandra/ 
+cd bin 
+./cqlsh localhost  
+ 
+Note: You can also have client with graphical interface, i.e.: https://www.quora.com/What-is-
+the-free-GUI-tool-for-Cassandra   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+LAUNCHING : 
+Server launching : $ /bin/cassandra –f 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Client launching : $ /bin/cqlsh 
+ 
+To familiarize yourself with the environment try this command  
+cqlsh> help  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+EXAMPLE 
+ 
+CREATE KEYSPACE 
+cqlsh> CREATE KEYSPACE demo 
+   ..
+  Similarité: 0.7812457084655762
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: WITH replication = {'class':'SimpleStrategy', 'replication_factor': 3}; 
+ 
+cqlsh> USE demo; 
+cqlsh:demo>  
+ 
+CREATE TABLE 
+cqlsh:demo> CREATE TABLE users(  
+        ..
+  Similarité: 0.7595874071121216
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: WITH replication = {'class':'SimpleStrategy', 'replication_factor': 3}; 
+ 
+cqlsh> USE demo; 
+cqlsh:demo>  
+ 
+CREATE TABLE 
+cqlsh:demo> CREATE TABLE users(  
+        ..
+  Similarité: 0.7595874071121216
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: WITH replication = {'class':'SimpleStrategy', 'replication_factor': 3}; 
+ 
+cqlsh> USE demo; 
+cqlsh:demo>  
+ 
+CREATE TABLE 
+cqlsh:demo> CREATE TABLE users(  
+        ..
+  Similarité: 0.7595874071121216
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: WITH replication = {'class':'SimpleStrategy', 'replication_factor': 3}; 
+ 
+cqlsh> USE demo; 
+cqlsh:demo>  
+ 
+CREATE TABLE 
+cqlsh:demo> CREATE TABLE users(  
+        ..
+  Similarité: 0.7595874071121216
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: WITH replication = {'class':'SimpleStrategy', 'replication_factor': 3}; 
+ 
+cqlsh> USE demo; 
+cqlsh:demo>  
+ 
+CREATE TABLE 
+cqlsh:demo> CREATE TABLE users(  
+        ..
+  Similarité: 0.7595874071121216
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: email varchar, 
+        ..
+  Similarité: 0.5961599946022034
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: email varchar, 
+        ..
+  Similarité: 0.5961599946022034
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: email varchar, 
+        ..
+  Similarité: 0.5961599946022034
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: email varchar, 
+        ..
+  Similarité: 0.5961599946022034
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: email varchar, 
+        ..
+  Similarité: 0.5961599946022034
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: bio varchar, 
+        ..
+  Similarité: 0.5613547563552856
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: bio varchar, 
+        ..
+  Similarité: 0.5613547563552856
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: bio varchar, 
+        ..
+  Similarité: 0.5613547563552856
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: bio varchar, 
+        ..
+  Similarité: 0.5613547563552856
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: bio varchar, 
+        ..
+  Similarité: 0.5613547563552856
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: birthday timestamp,  
+        ..
+  Similarité: 0.5011289119720459
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: birthday timestamp,  
+        ..
+  Similarité: 0.5011289119720459
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: birthday timestamp,  
+        ..
+  Similarité: 0.5011289119720459
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: birthday timestamp,  
+        ..
+  Similarité: 0.5011289119720459
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: birthday timestamp,  
+        ..
+  Similarité: 0.5011289119720459
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: PRIMARY KEY (email) 
+        ..
+  Similarité: 0.5327802300453186
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: PRIMARY KEY (email) 
+        ..
+  Similarité: 0.5327802300453186
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: PRIMARY KEY (email) 
+        ..
+  Similarité: 0.5327802300453186
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: PRIMARY KEY (email) 
+        ..
+  Similarité: 0.5327802300453186
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: PRIMARY KEY (email) 
+        ..
+  Similarité: 0.5327802300453186
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: ); 
+cqlsh:demo> 
+ 
+cqlsh:demo> CREATE TABLE tweets(email varchar PRIMARY KEY, time_posted timestamp, tweet 
+varchar); 
+cqlsh:demo> 
+ 
+INSERT DATA 
+cqlsh:demo> INSERT INTO users (email, bio, birthday, active) VALUES ('person@mail.com', 
+'Student',01011900, true); 
+cqlsh:demo>  
+ 
+QUERYING 
+SELECT * FROM users; 
+SELECT count(*) from users; 
+SELECT * FROM users LIMIT 10; 
+SELECT email FROM users WHERE active = true; 
+ 
+DELETE KEYSPACE 
+cqlsh:demo> DROP KEYSPACE demo; 
+ 
+
+  Similarité: 0.7743865251541138
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: ); 
+cqlsh:demo> 
+ 
+cqlsh:demo> CREATE TABLE tweets(email varchar PRIMARY KEY, time_posted timestamp, tweet 
+varchar); 
+cqlsh:demo> 
+ 
+INSERT DATA 
+cqlsh:demo> INSERT INTO users (email, bio, birthday, active) VALUES ('person@mail.com', 
+'Student',01011900, true); 
+cqlsh:demo>  
+ 
+QUERYING 
+SELECT * FROM users; 
+SELECT count(*) from users; 
+SELECT * FROM users LIMIT 10; 
+SELECT email FROM users WHERE active = true; 
+ 
+DELETE KEYSPACE 
+cqlsh:demo> DROP KEYSPACE demo; 
+ 
+
+  Similarité: 0.7743865251541138
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: ); 
+cqlsh:demo> 
+ 
+cqlsh:demo> CREATE TABLE tweets(email varchar PRIMARY KEY, time_posted timestamp, tweet 
+varchar); 
+cqlsh:demo> 
+ 
+INSERT DATA 
+cqlsh:demo> INSERT INTO users (email, bio, birthday, active) VALUES ('person@mail.com', 
+'Student',01011900, true); 
+cqlsh:demo>  
+ 
+QUERYING 
+SELECT * FROM users; 
+SELECT count(*) from users; 
+SELECT * FROM users LIMIT 10; 
+SELECT email FROM users WHERE active = true; 
+ 
+DELETE KEYSPACE 
+cqlsh:demo> DROP KEYSPACE demo; 
+ 
+
+  Similarité: 0.7743865251541138
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: ); 
+cqlsh:demo> 
+ 
+cqlsh:demo> CREATE TABLE tweets(email varchar PRIMARY KEY, time_posted timestamp, tweet 
+varchar); 
+cqlsh:demo> 
+ 
+INSERT DATA 
+cqlsh:demo> INSERT INTO users (email, bio, birthday, active) VALUES ('person@mail.com', 
+'Student',01011900, true); 
+cqlsh:demo>  
+ 
+QUERYING 
+SELECT * FROM users; 
+SELECT count(*) from users; 
+SELECT * FROM users LIMIT 10; 
+SELECT email FROM users WHERE active = true; 
+ 
+DELETE KEYSPACE 
+cqlsh:demo> DROP KEYSPACE demo; 
+ 
+
+  Similarité: 0.7743865251541138
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: ); 
+cqlsh:demo> 
+ 
+cqlsh:demo> CREATE TABLE tweets(email varchar PRIMARY KEY, time_posted timestamp, tweet 
+varchar); 
+cqlsh:demo> 
+ 
+INSERT DATA 
+cqlsh:demo> INSERT INTO users (email, bio, birthday, active) VALUES ('person@mail.com', 
+'Student',01011900, true); 
+cqlsh:demo>  
+ 
+QUERYING 
+SELECT * FROM users; 
+SELECT count(*) from users; 
+SELECT * FROM users LIMIT 10; 
+SELECT email FROM users WHERE active = true; 
+ 
+DELETE KEYSPACE 
+cqlsh:demo> DROP KEYSPACE demo; 
+ 
+
+  Similarité: 0.7743865251541138
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+Plagiat détecté dans le fichier Tutorial MongoDB Install.pdf:
+  Partie plagiée:  
+1 
+NoSQL databases 
+Larbi Boubchir 
+__________________________________________________________ 
+Tutorial MongoDB Install 
+ 
+ 
+__________________________________________________________ 
+ 
+Option 1: Official Tutorials (For Lab PCs, go directly to Option 2)
+  Similarité: 0.5139721632003784
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  
+1 
+NoSQL databases 
+Larbi Boubchir 
+__________________________________________________________ 
+Tutorial MongoDB Install 
+ 
+ 
+__________________________________________________________ 
+ 
+Option 1: Official Tutorials (For Lab PCs, go directly to Option 2)
+  Similarité: 0.5139721632003784
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  
+1 
+NoSQL databases 
+Larbi Boubchir 
+__________________________________________________________ 
+Tutorial MongoDB Install 
+ 
+ 
+__________________________________________________________ 
+ 
+Option 1: Official Tutorials (For Lab PCs, go directly to Option 2)
+  Similarité: 0.5139721632003784
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  
+1 
+NoSQL databases 
+Larbi Boubchir 
+__________________________________________________________ 
+Tutorial MongoDB Install 
+ 
+ 
+__________________________________________________________ 
+ 
+Option 1: Official Tutorials (For Lab PCs, go directly to Option 2)
+  Similarité: 0.5139721632003784
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  
+1 
+NoSQL databases 
+Larbi Boubchir 
+__________________________________________________________ 
+Tutorial MongoDB Install 
+ 
+ 
+__________________________________________________________ 
+ 
+Option 1: Official Tutorials (For Lab PCs, go directly to Option 2)
+  Similarité: 0.5139721632003784
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+https://docs.mongodb.com/manual/installation/#mongodb-community-edition 
+ 
+Option 2: Quick/Easy Tutorial 
+Download (Note: Before clining download from the page select the right version of your OS) 
+ 
+1) Go on the following link: https://www.mongodb.com/download-center/community 
+2) Select the MongoDB version
+  Similarité: 0.7004779577255249
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+https://docs.mongodb.com/manual/installation/#mongodb-community-edition 
+ 
+Option 2: Quick/Easy Tutorial 
+Download (Note: Before clining download from the page select the right version of your OS) 
+ 
+1) Go on the following link: https://www.mongodb.com/download-center/community 
+2) Select the MongoDB version
+  Similarité: 0.7004779577255249
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+https://docs.mongodb.com/manual/installation/#mongodb-community-edition 
+ 
+Option 2: Quick/Easy Tutorial 
+Download (Note: Before clining download from the page select the right version of your OS) 
+ 
+1) Go on the following link: https://www.mongodb.com/download-center/community 
+2) Select the MongoDB version
+  Similarité: 0.7004779577255249
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+https://docs.mongodb.com/manual/installation/#mongodb-community-edition 
+ 
+Option 2: Quick/Easy Tutorial 
+Download (Note: Before clining download from the page select the right version of your OS) 
+ 
+1) Go on the following link: https://www.mongodb.com/download-center/community 
+2) Select the MongoDB version
+  Similarité: 0.7004779577255249
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+https://docs.mongodb.com/manual/installation/#mongodb-community-edition 
+ 
+Option 2: Quick/Easy Tutorial 
+Download (Note: Before clining download from the page select the right version of your OS) 
+ 
+1) Go on the following link: https://www.mongodb.com/download-center/community 
+2) Select the MongoDB version
+  Similarité: 0.7004779577255249
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: If the one you’re looking for is not in the list, go to “All 
+version binaries” on the right menu
+  Similarité: 0.6049703359603882
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: If the one you’re looking for is not in the list, go to “All 
+version binaries” on the right menu
+  Similarité: 0.6049703359603882
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: If the one you’re looking for is not in the list, go to “All 
+version binaries” on the right menu
+  Similarité: 0.6049703359603882
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: If the one you’re looking for is not in the list, go to “All 
+version binaries” on the right menu
+  Similarité: 0.6049703359603882
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: If the one you’re looking for is not in the list, go to “All 
+version binaries” on the right menu
+  Similarité: 0.6049703359603882
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+3) Select your OS version 
+4) Select TGZ in Package 
+5) Click on Download  
+ 
+Extract it in a folder
+  Similarité: 0.6630519032478333
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+3) Select your OS version 
+4) Select TGZ in Package 
+5) Click on Download  
+ 
+Extract it in a folder
+  Similarité: 0.6630519032478333
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+3) Select your OS version 
+4) Select TGZ in Package 
+5) Click on Download  
+ 
+Extract it in a folder
+  Similarité: 0.6630519032478333
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+3) Select your OS version 
+4) Select TGZ in Package 
+5) Click on Download  
+ 
+Extract it in a folder
+  Similarité: 0.6630519032478333
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+3) Select your OS version 
+4) Select TGZ in Package 
+5) Click on Download  
+ 
+Extract it in a folder
+  Similarité: 0.6630519032478333
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: We’ll call the path to Mongodb folder: /path/to/mongo/ 
+ 
+3
+  Similarité: 0.7133762836456299
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: We’ll call the path to Mongodb folder: /path/to/mongo/ 
+ 
+3
+  Similarité: 0.7133762836456299
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: We’ll call the path to Mongodb folder: /path/to/mongo/ 
+ 
+3
+  Similarité: 0.7133762836456299
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: We’ll call the path to Mongodb folder: /path/to/mongo/ 
+ 
+3
+  Similarité: 0.7133762836456299
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: We’ll call the path to Mongodb folder: /path/to/mongo/ 
+ 
+3
+  Similarité: 0.7133762836456299
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Launch Mongo Server: In a terminal (under Mac ou Linux), run these commands: 
+cd /path/to/mongo/ 
+cd bin 
+mkdir dataFolder 
+./mongod --dbpath dataFolder   
+On windows, use mongod.exe instead ./mongod 
+Don’t close the terminal or you’ll kill the server ! 
+4
+  Similarité: 0.7968693971633911
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Launch Mongo Server: In a terminal (under Mac ou Linux), run these commands: 
+cd /path/to/mongo/ 
+cd bin 
+mkdir dataFolder 
+./mongod --dbpath dataFolder   
+On windows, use mongod.exe instead ./mongod 
+Don’t close the terminal or you’ll kill the server ! 
+4
+  Similarité: 0.7968693971633911
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Launch Mongo Server: In a terminal (under Mac ou Linux), run these commands: 
+cd /path/to/mongo/ 
+cd bin 
+mkdir dataFolder 
+./mongod --dbpath dataFolder   
+On windows, use mongod.exe instead ./mongod 
+Don’t close the terminal or you’ll kill the server ! 
+4
+  Similarité: 0.7968693971633911
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Launch Mongo Server: In a terminal (under Mac ou Linux), run these commands: 
+cd /path/to/mongo/ 
+cd bin 
+mkdir dataFolder 
+./mongod --dbpath dataFolder   
+On windows, use mongod.exe instead ./mongod 
+Don’t close the terminal or you’ll kill the server ! 
+4
+  Similarité: 0.7968693971633911
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Launch Mongo Server: In a terminal (under Mac ou Linux), run these commands: 
+cd /path/to/mongo/ 
+cd bin 
+mkdir dataFolder 
+./mongod --dbpath dataFolder   
+On windows, use mongod.exe instead ./mongod 
+Don’t close the terminal or you’ll kill the server ! 
+4
+  Similarité: 0.7968693971633911
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Launch Mongo Client: Open another terminal window
+  Similarité: 0.6390634775161743
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Launch Mongo Client: Open another terminal window
+  Similarité: 0.6390634775161743
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Launch Mongo Client: Open another terminal window
+  Similarité: 0.6390634775161743
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Launch Mongo Client: Open another terminal window
+  Similarité: 0.6390634775161743
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Launch Mongo Client: Open another terminal window
+  Similarité: 0.6390634775161743
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Launch following commands: 
+cd /path/to/mongo/ 
+cd bin 
+./mongo 
+On windows, use mongo.exe instead ./mongo 
+ 
+Note: You can also have client with graphical interface
+  Similarité: 0.7148358225822449
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Launch following commands: 
+cd /path/to/mongo/ 
+cd bin 
+./mongo 
+On windows, use mongo.exe instead ./mongo 
+ 
+Note: You can also have client with graphical interface
+  Similarité: 0.7148358225822449
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Launch following commands: 
+cd /path/to/mongo/ 
+cd bin 
+./mongo 
+On windows, use mongo.exe instead ./mongo 
+ 
+Note: You can also have client with graphical interface
+  Similarité: 0.7148358225822449
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Launch following commands: 
+cd /path/to/mongo/ 
+cd bin 
+./mongo 
+On windows, use mongo.exe instead ./mongo 
+ 
+Note: You can also have client with graphical interface
+  Similarité: 0.7148358225822449
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Launch following commands: 
+cd /path/to/mongo/ 
+cd bin 
+./mongo 
+On windows, use mongo.exe instead ./mongo 
+ 
+Note: You can also have client with graphical interface
+  Similarité: 0.7148358225822449
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: i.e.: 
+https://stackoverflow.com/a/6691013  
+ 
+2 
+LAUNCHING : 
+Server launching : $ ./mongod 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Client launching : $ /bin/mongo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To familiarize yourself with the environment try these few commands  
+> help  
+> db
+  Similarité: 0.7665988206863403
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: i.e.: 
+https://stackoverflow.com/a/6691013  
+ 
+2 
+LAUNCHING : 
+Server launching : $ ./mongod 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Client launching : $ /bin/mongo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To familiarize yourself with the environment try these few commands  
+> help  
+> db
+  Similarité: 0.7665988206863403
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: i.e.: 
+https://stackoverflow.com/a/6691013  
+ 
+2 
+LAUNCHING : 
+Server launching : $ ./mongod 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Client launching : $ /bin/mongo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To familiarize yourself with the environment try these few commands  
+> help  
+> db
+  Similarité: 0.7665988206863403
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: i.e.: 
+https://stackoverflow.com/a/6691013  
+ 
+2 
+LAUNCHING : 
+Server launching : $ ./mongod 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Client launching : $ /bin/mongo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To familiarize yourself with the environment try these few commands  
+> help  
+> db
+  Similarité: 0.7665988206863403
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: i.e.: 
+https://stackoverflow.com/a/6691013  
+ 
+2 
+LAUNCHING : 
+Server launching : $ ./mongod 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Client launching : $ /bin/mongo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To familiarize yourself with the environment try these few commands  
+> help  
+> db
+  Similarité: 0.7665988206863403
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: help()  
+ 
+ 
+3 
+« Hello World » EXAMPLE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUERYING 
+Display data  
+> db.location.find() 
+ 
+ 
+ 
+ 
+§ 
+ObjectID: Unique identifier of each document
+  Similarité: 0.7257294654846191
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: help()  
+ 
+ 
+3 
+« Hello World » EXAMPLE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUERYING 
+Display data  
+> db.location.find() 
+ 
+ 
+ 
+ 
+§ 
+ObjectID: Unique identifier of each document
+  Similarité: 0.7257294654846191
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: help()  
+ 
+ 
+3 
+« Hello World » EXAMPLE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUERYING 
+Display data  
+> db.location.find() 
+ 
+ 
+ 
+ 
+§ 
+ObjectID: Unique identifier of each document
+  Similarité: 0.7257294654846191
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: help()  
+ 
+ 
+3 
+« Hello World » EXAMPLE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUERYING 
+Display data  
+> db.location.find() 
+ 
+ 
+ 
+ 
+§ 
+ObjectID: Unique identifier of each document
+  Similarité: 0.7257294654846191
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: help()  
+ 
+ 
+3 
+« Hello World » EXAMPLE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUERYING 
+Display data  
+> db.location.find() 
+ 
+ 
+ 
+ 
+§ 
+ObjectID: Unique identifier of each document
+  Similarité: 0.7257294654846191
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Declared explicitly by the developer or implicitly 
+by mongoDB 
+§ 
+Format: BSON (binary JSON): binary serialization of "JSON-Like" documents with an 
+extension for other types (date, binary data, etc.) 
+§ 
+Specification of BSON: http://bsonspec.org/ 
+ 
+Add records to the collection « location » 
+ 
+ 
+ 
+ 
+ 
+ 
+Find record with zip code: 75000 (Idem for name :’’person1’’) 
+
+  Similarité: 0.7794598340988159
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Declared explicitly by the developer or implicitly 
+by mongoDB 
+§ 
+Format: BSON (binary JSON): binary serialization of "JSON-Like" documents with an 
+extension for other types (date, binary data, etc.) 
+§ 
+Specification of BSON: http://bsonspec.org/ 
+ 
+Add records to the collection « location » 
+ 
+ 
+ 
+ 
+ 
+ 
+Find record with zip code: 75000 (Idem for name :’’person1’’) 
+
+  Similarité: 0.7794598340988159
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Declared explicitly by the developer or implicitly 
+by mongoDB 
+§ 
+Format: BSON (binary JSON): binary serialization of "JSON-Like" documents with an 
+extension for other types (date, binary data, etc.) 
+§ 
+Specification of BSON: http://bsonspec.org/ 
+ 
+Add records to the collection « location » 
+ 
+ 
+ 
+ 
+ 
+ 
+Find record with zip code: 75000 (Idem for name :’’person1’’) 
+
+  Similarité: 0.7794598340988159
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Declared explicitly by the developer or implicitly 
+by mongoDB 
+§ 
+Format: BSON (binary JSON): binary serialization of "JSON-Like" documents with an 
+extension for other types (date, binary data, etc.) 
+§ 
+Specification of BSON: http://bsonspec.org/ 
+ 
+Add records to the collection « location » 
+ 
+ 
+ 
+ 
+ 
+ 
+Find record with zip code: 75000 (Idem for name :’’person1’’) 
+
+  Similarité: 0.7794598340988159
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Declared explicitly by the developer or implicitly 
+by mongoDB 
+§ 
+Format: BSON (binary JSON): binary serialization of "JSON-Like" documents with an 
+extension for other types (date, binary data, etc.) 
+§ 
+Specification of BSON: http://bsonspec.org/ 
+ 
+Add records to the collection « location » 
+ 
+ 
+ 
+ 
+ 
+ 
+Find record with zip code: 75000 (Idem for name :’’person1’’) 
+
+  Similarité: 0.7794598340988159
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+Plagiat détecté dans le fichier Lettre de motivation.pdf:
+  Partie plagiée:  
+Objet : Candidature pour le M2 - Cycle Ingénieur en Apprentissage, Parcours Logiciels 
+et Systèmes d'Information - Paris 2023-2024 
+ 
+Madame, Monsieur, 
+ 
+Enthousiaste et expérimenté dans le domaine de l'ingénierie logicielle, je me permets de vous 
+présenter ma candidature pour intégrer votre formation M2 de votre cycle Ingénieur en 
+Apprentissage, Parcours Logiciels et Systèmes d'Information
+  Similarité: 0.7864460945129395
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  
+Objet : Candidature pour le M2 - Cycle Ingénieur en Apprentissage, Parcours Logiciels 
+et Systèmes d'Information - Paris 2023-2024 
+ 
+Madame, Monsieur, 
+ 
+Enthousiaste et expérimenté dans le domaine de l'ingénierie logicielle, je me permets de vous 
+présenter ma candidature pour intégrer votre formation M2 de votre cycle Ingénieur en 
+Apprentissage, Parcours Logiciels et Systèmes d'Information
+  Similarité: 0.7864460945129395
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  
+Objet : Candidature pour le M2 - Cycle Ingénieur en Apprentissage, Parcours Logiciels 
+et Systèmes d'Information - Paris 2023-2024 
+ 
+Madame, Monsieur, 
+ 
+Enthousiaste et expérimenté dans le domaine de l'ingénierie logicielle, je me permets de vous 
+présenter ma candidature pour intégrer votre formation M2 de votre cycle Ingénieur en 
+Apprentissage, Parcours Logiciels et Systèmes d'Information
+  Similarité: 0.7864460945129395
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  
+Objet : Candidature pour le M2 - Cycle Ingénieur en Apprentissage, Parcours Logiciels 
+et Systèmes d'Information - Paris 2023-2024 
+ 
+Madame, Monsieur, 
+ 
+Enthousiaste et expérimenté dans le domaine de l'ingénierie logicielle, je me permets de vous 
+présenter ma candidature pour intégrer votre formation M2 de votre cycle Ingénieur en 
+Apprentissage, Parcours Logiciels et Systèmes d'Information
+  Similarité: 0.7864460945129395
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée:  
+Objet : Candidature pour le M2 - Cycle Ingénieur en Apprentissage, Parcours Logiciels 
+et Systèmes d'Information - Paris 2023-2024 
+ 
+Madame, Monsieur, 
+ 
+Enthousiaste et expérimenté dans le domaine de l'ingénierie logicielle, je me permets de vous 
+présenter ma candidature pour intégrer votre formation M2 de votre cycle Ingénieur en 
+Apprentissage, Parcours Logiciels et Systèmes d'Information
+  Similarité: 0.7864460945129395
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Actuellement titulaire d'un Bac+4 et du diplôme de Licence à l’université de Tours, j'ai également 
+enrichi mon parcours avec des expériences professionnelles significatives
+  Similarité: 0.7285160422325134
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Actuellement titulaire d'un Bac+4 et du diplôme de Licence à l’université de Tours, j'ai également 
+enrichi mon parcours avec des expériences professionnelles significatives
+  Similarité: 0.7285160422325134
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Actuellement titulaire d'un Bac+4 et du diplôme de Licence à l’université de Tours, j'ai également 
+enrichi mon parcours avec des expériences professionnelles significatives
+  Similarité: 0.7285160422325134
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Actuellement titulaire d'un Bac+4 et du diplôme de Licence à l’université de Tours, j'ai également 
+enrichi mon parcours avec des expériences professionnelles significatives
+  Similarité: 0.7285160422325134
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Actuellement titulaire d'un Bac+4 et du diplôme de Licence à l’université de Tours, j'ai également 
+enrichi mon parcours avec des expériences professionnelles significatives
+  Similarité: 0.7285160422325134
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Durant un stage de six 
+mois chez SNCF CONNECT AND TECH SERVICES A NANTES, j'ai développé un module Wear OS pour 
+leur application TGV INOUI PRO de scratch, démontrant ainsi mon autonomie et ma capacité à 
+mener à bien des projets complexes
+  Similarité: 0.7967098951339722
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Durant un stage de six 
+mois chez SNCF CONNECT AND TECH SERVICES A NANTES, j'ai développé un module Wear OS pour 
+leur application TGV INOUI PRO de scratch, démontrant ainsi mon autonomie et ma capacité à 
+mener à bien des projets complexes
+  Similarité: 0.7967098951339722
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Durant un stage de six 
+mois chez SNCF CONNECT AND TECH SERVICES A NANTES, j'ai développé un module Wear OS pour 
+leur application TGV INOUI PRO de scratch, démontrant ainsi mon autonomie et ma capacité à 
+mener à bien des projets complexes
+  Similarité: 0.7967098951339722
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Durant un stage de six 
+mois chez SNCF CONNECT AND TECH SERVICES A NANTES, j'ai développé un module Wear OS pour 
+leur application TGV INOUI PRO de scratch, démontrant ainsi mon autonomie et ma capacité à 
+mener à bien des projets complexes
+  Similarité: 0.7967098951339722
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Durant un stage de six 
+mois chez SNCF CONNECT AND TECH SERVICES A NANTES, j'ai développé un module Wear OS pour 
+leur application TGV INOUI PRO de scratch, démontrant ainsi mon autonomie et ma capacité à 
+mener à bien des projets complexes
+  Similarité: 0.7967098951339722
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: J'ai également conçu et développé une application Android 
+pour l'ONG AIME, contribuant à la préservation du patrimoine culturel dans diverses régions isolées 
+du monde
+  Similarité: 0.7343462705612183
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: J'ai également conçu et développé une application Android 
+pour l'ONG AIME, contribuant à la préservation du patrimoine culturel dans diverses régions isolées 
+du monde
+  Similarité: 0.7343462705612183
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: J'ai également conçu et développé une application Android 
+pour l'ONG AIME, contribuant à la préservation du patrimoine culturel dans diverses régions isolées 
+du monde
+  Similarité: 0.7343462705612183
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: J'ai également conçu et développé une application Android 
+pour l'ONG AIME, contribuant à la préservation du patrimoine culturel dans diverses régions isolées 
+du monde
+  Similarité: 0.7343462705612183
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: J'ai également conçu et développé une application Android 
+pour l'ONG AIME, contribuant à la préservation du patrimoine culturel dans diverses régions isolées 
+du monde
+  Similarité: 0.7343462705612183
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Ces expériences, combinées à ma formation académique, m'ont fourni une base solide en ingénierie 
+logicielle
+  Similarité: 0.7068920135498047
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Ces expériences, combinées à ma formation académique, m'ont fourni une base solide en ingénierie 
+logicielle
+  Similarité: 0.7068920135498047
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Ces expériences, combinées à ma formation académique, m'ont fourni une base solide en ingénierie 
+logicielle
+  Similarité: 0.7068920135498047
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Ces expériences, combinées à ma formation académique, m'ont fourni une base solide en ingénierie 
+logicielle
+  Similarité: 0.7068920135498047
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Ces expériences, combinées à ma formation académique, m'ont fourni une base solide en ingénierie 
+logicielle
+  Similarité: 0.7068920135498047
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Je suis convaincu qu'elles me permettent d'être parfaitement capable d'intégrer le M2 de 
+votre cycle Ingénieur
+  Similarité: 0.6992435455322266
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Je suis convaincu qu'elles me permettent d'être parfaitement capable d'intégrer le M2 de 
+votre cycle Ingénieur
+  Similarité: 0.6992435455322266
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Je suis convaincu qu'elles me permettent d'être parfaitement capable d'intégrer le M2 de 
+votre cycle Ingénieur
+  Similarité: 0.6992435455322266
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Je suis convaincu qu'elles me permettent d'être parfaitement capable d'intégrer le M2 de 
+votre cycle Ingénieur
+  Similarité: 0.6992435455322266
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Je suis convaincu qu'elles me permettent d'être parfaitement capable d'intégrer le M2 de 
+votre cycle Ingénieur
+  Similarité: 0.6992435455322266
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Je suis conscient que cette demande est exceptionnelle, cependant, je crois fermement que mon 
+parcours riche et diversifié, ainsi que ma maturité et ma détermination, sont autant d'arguments 
+pour une dérogation en ma faveur
+  Similarité: 0.6926191449165344
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Je suis conscient que cette demande est exceptionnelle, cependant, je crois fermement que mon 
+parcours riche et diversifié, ainsi que ma maturité et ma détermination, sont autant d'arguments 
+pour une dérogation en ma faveur
+  Similarité: 0.6926191449165344
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Je suis conscient que cette demande est exceptionnelle, cependant, je crois fermement que mon 
+parcours riche et diversifié, ainsi que ma maturité et ma détermination, sont autant d'arguments 
+pour une dérogation en ma faveur
+  Similarité: 0.6926191449165344
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Je suis conscient que cette demande est exceptionnelle, cependant, je crois fermement que mon 
+parcours riche et diversifié, ainsi que ma maturité et ma détermination, sont autant d'arguments 
+pour une dérogation en ma faveur
+  Similarité: 0.6926191449165344
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Je suis conscient que cette demande est exceptionnelle, cependant, je crois fermement que mon 
+parcours riche et diversifié, ainsi que ma maturité et ma détermination, sont autant d'arguments 
+pour une dérogation en ma faveur
+  Similarité: 0.6926191449165344
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Intégrer votre établissement à ce niveau me permettrait non seulement de gagner une année 
+précieuse, mais aussi d'aborder les défis de l'industrie numérique avec une vision plus éclairée et des 
+compétences renforcées
+  Similarité: 0.7190872430801392
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Intégrer votre établissement à ce niveau me permettrait non seulement de gagner une année 
+précieuse, mais aussi d'aborder les défis de l'industrie numérique avec une vision plus éclairée et des 
+compétences renforcées
+  Similarité: 0.7190872430801392
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Intégrer votre établissement à ce niveau me permettrait non seulement de gagner une année 
+précieuse, mais aussi d'aborder les défis de l'industrie numérique avec une vision plus éclairée et des 
+compétences renforcées
+  Similarité: 0.7190872430801392
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Intégrer votre établissement à ce niveau me permettrait non seulement de gagner une année 
+précieuse, mais aussi d'aborder les défis de l'industrie numérique avec une vision plus éclairée et des 
+compétences renforcées
+  Similarité: 0.7190872430801392
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Intégrer votre établissement à ce niveau me permettrait non seulement de gagner une année 
+précieuse, mais aussi d'aborder les défis de l'industrie numérique avec une vision plus éclairée et des 
+compétences renforcées
+  Similarité: 0.7190872430801392
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Je vous remercie de l'attention que vous porterez à ma candidature
+  Similarité: 0.6454131603240967
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Je vous remercie de l'attention que vous porterez à ma candidature
+  Similarité: 0.6454131603240967
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Je vous remercie de l'attention que vous porterez à ma candidature
+  Similarité: 0.6454131603240967
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Je vous remercie de l'attention que vous porterez à ma candidature
+  Similarité: 0.6454131603240967
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+Je vous remercie de l'attention que vous porterez à ma candidature
+  Similarité: 0.6454131603240967
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Je me tiens à votre disposition 
+pour toute information complémentaire et j'espère avoir l'occasion de discuter de ma candidature 
+lors d'un entretien
+  Similarité: 0.6969301700592041
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Je me tiens à votre disposition 
+pour toute information complémentaire et j'espère avoir l'occasion de discuter de ma candidature 
+lors d'un entretien
+  Similarité: 0.6969301700592041
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Je me tiens à votre disposition 
+pour toute information complémentaire et j'espère avoir l'occasion de discuter de ma candidature 
+lors d'un entretien
+  Similarité: 0.6969301700592041
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Je me tiens à votre disposition 
+pour toute information complémentaire et j'espère avoir l'occasion de discuter de ma candidature 
+lors d'un entretien
+  Similarité: 0.6969301700592041
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Je me tiens à votre disposition 
+pour toute information complémentaire et j'espère avoir l'occasion de discuter de ma candidature 
+lors d'un entretien
+  Similarité: 0.6969301700592041
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+Plagiat détecté dans le fichier report.pdf:
+  Partie plagiée: Advanced Data Base project report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We designed the database considering the primary entities and relationships 
+required to represent a social network like "Facebook." Firstly, we created a 
+"User" table to store basic user information, including their first name, last name, 
+email address, date of birth, gender, country, city of residence, as well as 
+essential identification data such as username and password
+  Similarité: 0.6588086485862732
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Advanced Data Base project report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We designed the database considering the primary entities and relationships 
+required to represent a social network like "Facebook." Firstly, we created a 
+"User" table to store basic user information, including their first name, last name, 
+email address, date of birth, gender, country, city of residence, as well as 
+essential identification data such as username and password
+  Similarité: 0.6588086485862732
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Advanced Data Base project report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We designed the database considering the primary entities and relationships 
+required to represent a social network like "Facebook." Firstly, we created a 
+"User" table to store basic user information, including their first name, last name, 
+email address, date of birth, gender, country, city of residence, as well as 
+essential identification data such as username and password
+  Similarité: 0.6588086485862732
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Advanced Data Base project report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We designed the database considering the primary entities and relationships 
+required to represent a social network like "Facebook." Firstly, we created a 
+"User" table to store basic user information, including their first name, last name, 
+email address, date of birth, gender, country, city of residence, as well as 
+essential identification data such as username and password
+  Similarité: 0.6588086485862732
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Advanced Data Base project report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We designed the database considering the primary entities and relationships 
+required to represent a social network like "Facebook." Firstly, we created a 
+"User" table to store basic user information, including their first name, last name, 
+email address, date of birth, gender, country, city of residence, as well as 
+essential identification data such as username and password
+  Similarité: 0.6588086485862732
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: These details are 
+fundamental for user identification and profile management
+  Similarité: 0.5298230648040771
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: These details are 
+fundamental for user identification and profile management
+  Similarité: 0.5298230648040771
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: These details are 
+fundamental for user identification and profile management
+  Similarité: 0.5298230648040771
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: These details are 
+fundamental for user identification and profile management
+  Similarité: 0.5298230648040771
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: These details are 
+fundamental for user identification and profile management
+  Similarité: 0.5298230648040771
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+The "Page" table was introduced to enable users to create both public and 
+private pages
+  Similarité: 0.6134319305419922
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+The "Page" table was introduced to enable users to create both public and 
+private pages
+  Similarité: 0.6134319305419922
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+The "Page" table was introduced to enable users to create both public and 
+private pages
+  Similarité: 0.6134319305419922
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+The "Page" table was introduced to enable users to create both public and 
+private pages
+  Similarité: 0.6134319305419922
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+The "Page" table was introduced to enable users to create both public and 
+private pages
+  Similarité: 0.6134319305419922
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This allows the management of content publishing while offering 
+the option to define page privacy settings
+  Similarité: 0.5738267302513123
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This allows the management of content publishing while offering 
+the option to define page privacy settings
+  Similarité: 0.5738267302513123
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This allows the management of content publishing while offering 
+the option to define page privacy settings
+  Similarité: 0.5738267302513123
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This allows the management of content publishing while offering 
+the option to define page privacy settings
+  Similarité: 0.5738267302513123
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This allows the management of content publishing while offering 
+the option to define page privacy settings
+  Similarité: 0.5738267302513123
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Users can thus share information 
+with a wider or more restricted audience based on their preferences
+  Similarité: 0.5465017557144165
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Users can thus share information 
+with a wider or more restricted audience based on their preferences
+  Similarité: 0.5465017557144165
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Users can thus share information 
+with a wider or more restricted audience based on their preferences
+  Similarité: 0.5465017557144165
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Users can thus share information 
+with a wider or more restricted audience based on their preferences
+  Similarité: 0.5465017557144165
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Users can thus share information 
+with a wider or more restricted audience based on their preferences
+  Similarité: 0.5465017557144165
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+To manage user posts, we introduced the "Publication" table
+  Similarité: 0.5893043279647827
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+To manage user posts, we introduced the "Publication" table
+  Similarité: 0.5893043279647827
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+To manage user posts, we introduced the "Publication" table
+  Similarité: 0.5893043279647827
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+To manage user posts, we introduced the "Publication" table
+  Similarité: 0.5893043279647827
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+To manage user posts, we introduced the "Publication" table
+  Similarité: 0.5893043279647827
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This table 
+contains information about posts, such as title, publication date, text, and a 
+"like" counter
+  Similarité: 0.5052805542945862
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This table 
+contains information about posts, such as title, publication date, text, and a 
+"like" counter
+  Similarité: 0.5052805542945862
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This table 
+contains information about posts, such as title, publication date, text, and a 
+"like" counter
+  Similarité: 0.5052805542945862
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This table 
+contains information about posts, such as title, publication date, text, and a 
+"like" counter
+  Similarité: 0.5052805542945862
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This table 
+contains information about posts, such as title, publication date, text, and a 
+"like" counter
+  Similarité: 0.5052805542945862
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It is linked to the "Page" table, thereby connecting posts to the 
+pages they belong to
+  Similarité: 0.5888282656669617
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It is linked to the "Page" table, thereby connecting posts to the 
+pages they belong to
+  Similarité: 0.5888282656669617
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It is linked to the "Page" table, thereby connecting posts to the 
+pages they belong to
+  Similarité: 0.5888282656669617
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It is linked to the "Page" table, thereby connecting posts to the 
+pages they belong to
+  Similarité: 0.5888282656669617
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It is linked to the "Page" table, thereby connecting posts to the 
+pages they belong to
+  Similarité: 0.5888282656669617
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Therefore, we added the 
+"Group" table to allow users to create and join groups
+  Similarité: 0.5968406200408936
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Therefore, we added the 
+"Group" table to allow users to create and join groups
+  Similarité: 0.5968406200408936
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Therefore, we added the 
+"Group" table to allow users to create and join groups
+  Similarité: 0.5968406200408936
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Therefore, we added the 
+"Group" table to allow users to create and join groups
+  Similarité: 0.5968406200408936
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Therefore, we added the 
+"Group" table to allow users to create and join groups
+  Similarité: 0.5968406200408936
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: For this purpose, we created the "Relationship" table
+  Similarité: 0.5235781669616699
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: For this purpose, we created the "Relationship" table
+  Similarité: 0.5235781669616699
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: For this purpose, we created the "Relationship" table
+  Similarité: 0.5235781669616699
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: For this purpose, we created the "Relationship" table
+  Similarité: 0.5235781669616699
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: For this purpose, we created the "Relationship" table
+  Similarité: 0.5235781669616699
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It tracks 
+social connections between users and records the start date of these 
+relationships
+  Similarité: 0.5519826412200928
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It tracks 
+social connections between users and records the start date of these 
+relationships
+  Similarité: 0.5519826412200928
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It tracks 
+social connections between users and records the start date of these 
+relationships
+  Similarité: 0.5519826412200928
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It tracks 
+social connections between users and records the start date of these 
+relationships
+  Similarité: 0.5519826412200928
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It tracks 
+social connections between users and records the start date of these 
+relationships
+  Similarité: 0.5519826412200928
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+Private 
+conversations 
+between 
+users 
+are 
+managed 
+through 
+the 
+"PrivateMessage" table
+  Similarité: 0.6287667751312256
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+Private 
+conversations 
+between 
+users 
+are 
+managed 
+through 
+the 
+"PrivateMessage" table
+  Similarité: 0.6287667751312256
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+Private 
+conversations 
+between 
+users 
+are 
+managed 
+through 
+the 
+"PrivateMessage" table
+  Similarité: 0.6287667751312256
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+Private 
+conversations 
+between 
+users 
+are 
+managed 
+through 
+the 
+"PrivateMessage" table
+  Similarité: 0.6287667751312256
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+Private 
+conversations 
+between 
+users 
+are 
+managed 
+through 
+the 
+"PrivateMessage" table
+  Similarité: 0.6287667751312256
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+User interactions with posts, such as "likes," are tracked in the "LikesPost" table
+  Similarité: 0.5740275979042053
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+User interactions with posts, such as "likes," are tracked in the "LikesPost" table
+  Similarité: 0.5740275979042053
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+User interactions with posts, such as "likes," are tracked in the "LikesPost" table
+  Similarité: 0.5740275979042053
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+User interactions with posts, such as "likes," are tracked in the "LikesPost" table
+  Similarité: 0.5740275979042053
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+User interactions with posts, such as "likes," are tracked in the "LikesPost" table
+  Similarité: 0.5740275979042053
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+Finally, the ability to reply to posts is managed by the "ReplyTo" table
+  Similarité: 0.5888460874557495
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+Finally, the ability to reply to posts is managed by the "ReplyTo" table
+  Similarité: 0.5888460874557495
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+Finally, the ability to reply to posts is managed by the "ReplyTo" table
+  Similarité: 0.5888460874557495
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+Finally, the ability to reply to posts is managed by the "ReplyTo" table
+  Similarité: 0.5888460874557495
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+Finally, the ability to reply to posts is managed by the "ReplyTo" table
+  Similarité: 0.5888460874557495
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This allows 
+tracking discussions and replies to posts, fostering user engagement
+  Similarité: 0.5126165151596069
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This allows 
+tracking discussions and replies to posts, fostering user engagement
+  Similarité: 0.5126165151596069
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This allows 
+tracking discussions and replies to posts, fostering user engagement
+  Similarité: 0.5126165151596069
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This allows 
+tracking discussions and replies to posts, fostering user engagement
+  Similarité: 0.5126165151596069
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This allows 
+tracking discussions and replies to posts, fostering user engagement
+  Similarité: 0.5126165151596069
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LimiterAmis Trigger: 
+ 
+The "LimiterAmis" trigger was created to enforce a limit on the number of friends 
+a user can have in the system
+  Similarité: 0.6359392404556274
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LimiterAmis Trigger: 
+ 
+The "LimiterAmis" trigger was created to enforce a limit on the number of friends 
+a user can have in the system
+  Similarité: 0.6359392404556274
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LimiterAmis Trigger: 
+ 
+The "LimiterAmis" trigger was created to enforce a limit on the number of friends 
+a user can have in the system
+  Similarité: 0.6359392404556274
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LimiterAmis Trigger: 
+ 
+The "LimiterAmis" trigger was created to enforce a limit on the number of friends 
+a user can have in the system
+  Similarité: 0.6359392404556274
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LimiterAmis Trigger: 
+ 
+The "LimiterAmis" trigger was created to enforce a limit on the number of friends 
+a user can have in the system
+  Similarité: 0.6359392404556274
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This limit, set at 500 friends, was implemented to 
+prevent the database from becoming unmanageable in the event of a 
+massive addition of friends
+  Similarité: 0.5971211791038513
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This limit, set at 500 friends, was implemented to 
+prevent the database from becoming unmanageable in the event of a 
+massive addition of friends
+  Similarité: 0.5971211791038513
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This limit, set at 500 friends, was implemented to 
+prevent the database from becoming unmanageable in the event of a 
+massive addition of friends
+  Similarité: 0.5971211791038513
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This limit, set at 500 friends, was implemented to 
+prevent the database from becoming unmanageable in the event of a 
+massive addition of friends
+  Similarité: 0.5971211791038513
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: This limit, set at 500 friends, was implemented to 
+prevent the database from becoming unmanageable in the event of a 
+massive addition of friends
+  Similarité: 0.5971211791038513
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The trigger is set to fire whenever a new relationship 
+is inserted into the "Relation" table
+  Similarité: 0.5966477394104004
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The trigger is set to fire whenever a new relationship 
+is inserted into the "Relation" table
+  Similarité: 0.5966477394104004
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The trigger is set to fire whenever a new relationship 
+is inserted into the "Relation" table
+  Similarité: 0.5966477394104004
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The trigger is set to fire whenever a new relationship 
+is inserted into the "Relation" table
+  Similarité: 0.5966477394104004
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The trigger is set to fire whenever a new relationship 
+is inserted into the "Relation" table
+  Similarité: 0.5966477394104004
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It checks whether the user has reached the 
+friend limit or is attempting to become friends with themselves, and generates 
+a custom error message in these cases
+  Similarité: 0.5745264291763306
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It checks whether the user has reached the 
+friend limit or is attempting to become friends with themselves, and generates 
+a custom error message in these cases
+  Similarité: 0.5745264291763306
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It checks whether the user has reached the 
+friend limit or is attempting to become friends with themselves, and generates 
+a custom error message in these cases
+  Similarité: 0.5745264291763306
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It checks whether the user has reached the 
+friend limit or is attempting to become friends with themselves, and generates 
+a custom error message in these cases
+  Similarité: 0.5745264291763306
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It checks whether the user has reached the 
+friend limit or is attempting to become friends with themselves, and generates 
+a custom error message in these cases
+  Similarité: 0.5745264291763306
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The goal of this trigger is to ensure that 
+the business rule is enforced while informing users when their actions violate this 
+rule
+  Similarité: 0.5627979040145874
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The goal of this trigger is to ensure that 
+the business rule is enforced while informing users when their actions violate this 
+rule
+  Similarité: 0.5627979040145874
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The goal of this trigger is to ensure that 
+the business rule is enforced while informing users when their actions violate this 
+rule
+  Similarité: 0.5627979040145874
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The goal of this trigger is to ensure that 
+the business rule is enforced while informing users when their actions violate this 
+rule
+  Similarité: 0.5627979040145874
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The goal of this trigger is to ensure that 
+the business rule is enforced while informing users when their actions violate this 
+rule
+  Similarité: 0.5627979040145874
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+LimiterPublicationsParJour Trigger: 
+ 
+The "LimiterPublicationsParJour" trigger was created to limit the number of posts 
+a user can create in a day
+  Similarité: 0.6808935403823853
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+LimiterPublicationsParJour Trigger: 
+ 
+The "LimiterPublicationsParJour" trigger was created to limit the number of posts 
+a user can create in a day
+  Similarité: 0.6808935403823853
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+LimiterPublicationsParJour Trigger: 
+ 
+The "LimiterPublicationsParJour" trigger was created to limit the number of posts 
+a user can create in a day
+  Similarité: 0.6808935403823853
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+LimiterPublicationsParJour Trigger: 
+ 
+The "LimiterPublicationsParJour" trigger was created to limit the number of posts 
+a user can create in a day
+  Similarité: 0.6808935403823853
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+LimiterPublicationsParJour Trigger: 
+ 
+The "LimiterPublicationsParJour" trigger was created to limit the number of posts 
+a user can create in a day
+  Similarité: 0.6808935403823853
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The daily limit is set at 3 posts to maintain a high-
+quality user experience and to avoid content overload
+  Similarité: 0.5714160203933716
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The daily limit is set at 3 posts to maintain a high-
+quality user experience and to avoid content overload
+  Similarité: 0.5714160203933716
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The daily limit is set at 3 posts to maintain a high-
+quality user experience and to avoid content overload
+  Similarité: 0.5714160203933716
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The daily limit is set at 3 posts to maintain a high-
+quality user experience and to avoid content overload
+  Similarité: 0.5714160203933716
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The daily limit is set at 3 posts to maintain a high-
+quality user experience and to avoid content overload
+  Similarité: 0.5714160203933716
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Each time a new post 
+is inserted into the "Publication" table, this trigger fires and checks whether the 
+user has exceeded the daily limit
+  Similarité: 0.5817265510559082
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Each time a new post 
+is inserted into the "Publication" table, this trigger fires and checks whether the 
+user has exceeded the daily limit
+  Similarité: 0.5817265510559082
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Each time a new post 
+is inserted into the "Publication" table, this trigger fires and checks whether the 
+user has exceeded the daily limit
+  Similarité: 0.5817265510559082
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Each time a new post 
+is inserted into the "Publication" table, this trigger fires and checks whether the 
+user has exceeded the daily limit
+  Similarité: 0.5817265510559082
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: Each time a new post 
+is inserted into the "Publication" table, this trigger fires and checks whether the 
+user has exceeded the daily limit
+  Similarité: 0.5817265510559082
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: If the limit is reached, the trigger generates a 
+custom error message to inform the user of the rule violation
+  Similarité: 0.5443217754364014
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: If the limit is reached, the trigger generates a 
+custom error message to inform the user of the rule violation
+  Similarité: 0.5443217754364014
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: If the limit is reached, the trigger generates a 
+custom error message to inform the user of the rule violation
+  Similarité: 0.5443217754364014
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: If the limit is reached, the trigger generates a 
+custom error message to inform the user of the rule violation
+  Similarité: 0.5443217754364014
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: If the limit is reached, the trigger generates a 
+custom error message to inform the user of the rule violation
+  Similarité: 0.5443217754364014
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The justification 
+for this trigger lies in managing content quality and preserving a positive user 
+experience
+  Similarité: 0.513458788394928
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The justification 
+for this trigger lies in managing content quality and preserving a positive user 
+experience
+  Similarité: 0.513458788394928
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The justification 
+for this trigger lies in managing content quality and preserving a positive user 
+experience
+  Similarité: 0.513458788394928
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The justification 
+for this trigger lies in managing content quality and preserving a positive user 
+experience
+  Similarité: 0.513458788394928
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The justification 
+for this trigger lies in managing content quality and preserving a positive user 
+experience
+  Similarité: 0.513458788394928
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+SupprimerPublicationsAnciennes Trigger: 
+ 
+The "SupprimerPublicationsAnciennes" trigger was designed to automate the 
+deletion of old posts in the database
+  Similarité: 0.7088780999183655
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+SupprimerPublicationsAnciennes Trigger: 
+ 
+The "SupprimerPublicationsAnciennes" trigger was designed to automate the 
+deletion of old posts in the database
+  Similarité: 0.7088780999183655
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+SupprimerPublicationsAnciennes Trigger: 
+ 
+The "SupprimerPublicationsAnciennes" trigger was designed to automate the 
+deletion of old posts in the database
+  Similarité: 0.7088780999183655
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+SupprimerPublicationsAnciennes Trigger: 
+ 
+The "SupprimerPublicationsAnciennes" trigger was designed to automate the 
+deletion of old posts in the database
+  Similarité: 0.7088780999183655
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+ 
+SupprimerPublicationsAnciennes Trigger: 
+ 
+The "SupprimerPublicationsAnciennes" trigger was designed to automate the 
+deletion of old posts in the database
+  Similarité: 0.7088780999183655
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It triggers every time a new post is inserted 
+into the "Publication" table and checks the publication date of the new entry
+  Similarité: 0.5800950527191162
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It triggers every time a new post is inserted 
+into the "Publication" table and checks the publication date of the new entry
+  Similarité: 0.5800950527191162
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It triggers every time a new post is inserted 
+into the "Publication" table and checks the publication date of the new entry
+  Similarité: 0.5800950527191162
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It triggers every time a new post is inserted 
+into the "Publication" table and checks the publication date of the new entry
+  Similarité: 0.5800950527191162
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: It triggers every time a new post is inserted 
+into the "Publication" table and checks the publication date of the new entry
+  Similarité: 0.5800950527191162
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+If the post is more than 90 days old, the trigger automatically deletes it
+  Similarité: 0.5223641395568848
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+If the post is more than 90 days old, the trigger automatically deletes it
+  Similarité: 0.5223641395568848
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+If the post is more than 90 days old, the trigger automatically deletes it
+  Similarité: 0.5223641395568848
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+If the post is more than 90 days old, the trigger automatically deletes it
+  Similarité: 0.5223641395568848
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: 
+If the post is more than 90 days old, the trigger automatically deletes it
+  Similarité: 0.5223641395568848
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The 
+justification for this trigger is efficient data volume management and 
+maintaining the relevance of the database
+  Similarité: 0.568169355392456
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The 
+justification for this trigger is efficient data volume management and 
+maintaining the relevance of the database
+  Similarité: 0.568169355392456
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The 
+justification for this trigger is efficient data volume management and 
+maintaining the relevance of the database
+  Similarité: 0.568169355392456
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The 
+justification for this trigger is efficient data volume management and 
+maintaining the relevance of the database
+  Similarité: 0.568169355392456
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: The 
+justification for this trigger is efficient data volume management and 
+maintaining the relevance of the database
+  Similarité: 0.568169355392456
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: By automatically removing old 
+posts, it contributes to the performance and storage space management of 
+the database
+  Similarité: 0.5954525470733643
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: By automatically removing old 
+posts, it contributes to the performance and storage space management of 
+the database
+  Similarité: 0.5954525470733643
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: By automatically removing old 
+posts, it contributes to the performance and storage space management of 
+the database
+  Similarité: 0.5954525470733643
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: By automatically removing old 
+posts, it contributes to the performance and storage space management of 
+the database
+  Similarité: 0.5954525470733643
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
+  Partie plagiée: By automatically removing old 
+posts, it contributes to the performance and storage space management of 
+the database
+  Similarité: 0.5954525470733643
+
+  Correspondance trouvée: TP 4 : Pipelines de Donn´ees avec
+Apache Airflow
+Cours EFREI 2024-2025
+Yvann VINCENT
+Machine Learnin...
